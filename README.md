@@ -1,6 +1,8 @@
 # basic_ruby_projects
 Basic ruby projects from The Odin Project
 
+1. Caesars cipher
+
 In this project i worked with character conversion from char to ord and back to char.
 
 what i found challenging was figuring out the logic of finding out if the character is not a string

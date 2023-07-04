@@ -17,6 +17,9 @@ def substrings(string, dictionary)
       end
     end
   end
-
+  puts hash
 
 end
+
+substrings("below", dictionary)
+substrings("Howdy partner, sit down! How's it going?", dictionary)
